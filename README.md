@@ -36,7 +36,11 @@ We also demonstrate in this work that INR representations can be initialized wit
 
 ## Experiments
 
-Experiments Employing the three findings detailed to the left, the proposed MLP-based gain map encoding methodology outperforms both traditional and INR based encoding techniques and has robust rate-distortion performance.
+Employing these three findings, the proposed MLP-based gain map encoding methodology outperforms both traditional and INR based encoding techniques and has robust rate-distortion performance.
+
+![](https://raw.githubusercontent.com/Gain-MLP/Gain-MLP.github.io/refs/heads/main/table1iccv.png)
+
+![](https://raw.githubusercontent.com/Gain-MLP/Gain-MLP.github.io/refs/heads/main/rdICCV.png)
 
 ![](https://github.com/Gain-MLP/Gain-MLP.github.io/blob/main/resultsICCV.png?raw=true)
 
