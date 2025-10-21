@@ -44,7 +44,7 @@ Employing these three findings, the proposed MLP-based gain map encoding methodo
 
 ![](https://github.com/Gain-MLP/Gain-MLP.github.io/blob/main/resultsICCV.png?raw=true)
 
-Here the results are demonstrated in terms of \Delta E<sub>00</sub>
+Here the results are demonstrated in terms of $Delta$ E<sub>00</sub>
 
 ![](https://github.com/Gain-MLP/Gain-MLP.github.io/blob/main/resultsDEiccv.png?raw=true)
 
